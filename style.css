@@ -1,0 +1,49 @@
+:root{
+ --Primary: #1c4587;
+
+
+}
+
+h1{
+  color:white;
+  background-color: var(--Primary);
+  padding:2rem;
+  text-align:center;
+  font-style: oblique;
+
+}
+.small-border{
+  background-color: #17b0d281;
+  margin-left: 20vw;
+  height: 1rem;
+  width: 40vw;
+
+}
+
+.right-column{
+  width: 25vw;
+  display:flex;
+  flex-wrap:wrap-reverse;
+}
+img{
+  height:10rem;
+}
+.left-column{
+  text-align: center;
+  width: 84vw;
+
+
+
+}
+
+
+.d-flex{
+  display:flex;
+
+}
+
+.border{
+  background-color: var(--Primary);
+  padding: 3rem;
+  
+}
